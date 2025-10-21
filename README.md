@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rjingco/Configuring-On-premises-Active-Directory-within-Azure-VMs)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
 
 <h2>🤳Connect with me:</h2>
 
