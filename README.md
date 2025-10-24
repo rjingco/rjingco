@@ -2,9 +2,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/rjingco/osTicket---Prerequisites-and-Installation)
-
-- <b>10 Common Help Desk Issues and Solutions</b>
-  - https://github.com/rjingco/top-common-help-desk-issues/blob/main/README.md
     
 <h2>🤳Connect with me:</h2>
 
