@@ -4,6 +4,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/rjingco/osTicket---Prerequisites-and-Installation)
 - <b>Top 10 Help Desk Issues and Solutions</b>
   - [Help Desk Tickets Repository](https://github.com/rjingco/Help_Desk_Tickets)
+- <b>On-Premises Active Directory Configuration</b>
+  - [Active Directory Setup Repository](https://github.com/rjingco/Configuring-On-Premises-Active-Directory/tree/main)
     
 <h2>🤳 Connect with me:</h2>
 
